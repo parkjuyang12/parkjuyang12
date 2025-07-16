@@ -59,7 +59,7 @@ I also have hands-on experience building **data governance solutions**.
 
 | Stats | Top Languages |
 |-------|---------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithubid&show_icons=true&theme=default&hide_rank=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubid&layout=compact&theme=default) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=parkjuyang12&show_icons=true&theme=default&hide_rank=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkjuyang12&layout=compact&theme=default) |
 
 ---
 
