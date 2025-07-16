@@ -1,72 +1,75 @@
-<h2 align="center">Hi there 👋, I'm [Park Ju Yang]</h2>
+<h2 align="center">Hi there 👋, I'm Jooyang Park</h2>
 <p align="center">
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/📫 Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/yourid"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/yourid"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
-  <a href="https://yourblog.com"><img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=githubpages&logoColor=white"/></a>
+  <a href="mailto:wndid0705@naver.com"><img src="https://img.shields.io/badge/Email-wndid0705@naver.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.acmicpc.net/user/your_baekjoon_id"><img src="https://img.shields.io/badge/Baekjoon-OnlineJudge-0078D7?style=flat&logo=baekjoon&logoColor=white"/></a>
 </p>
 
 ---
 
-👋 **Hi there!** I'm a **mobile app developer** who loves building with **Android** and **iOS**.  
-I also enjoy working with **cross-platform frameworks** like React Native and Flutter.  
-I'm passionate about clean UI, smooth UX, and writing scalable, maintainable code. ✨  
-
-🏞 Outside of coding, I love hiking, reading, and exploring new cafes.  
+👋 I’m **Jooyang Park**, an aspiring **Data Engineer** who loves working with **data and infrastructure**.  
+I'm particularly interested in **containerization** and **orchestration** technologies like **Docker** and **Kubernetes**.  
+I also have hands-on experience building **data governance solutions**.
 
 ---
 
 ## 💪 Skills
 
-### Platforms & Languages
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white)
-![ReactNative](https://img.shields.io/badge/ReactNative-61DAFB?style=flat&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![ANTLR4](https://img.shields.io/badge/ANTLR4-5A00E0?style=flat&logo=antlr4&logoColor=white)
+![JavaCC](https://img.shields.io/badge/JavaCC-ED8B00?style=flat&logo=apache&logoColor=white)
 
-### Tools
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Bitrise](https://img.shields.io/badge/Bitrise-683D87?style=flat&logo=bitrise&logoColor=white)
-![Realm](https://img.shields.io/badge/Realm-39477F?style=flat&logo=realm&logoColor=white)
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## 📍 Location
+**Yongin, South Korea**
+
+---
+
+## 📌 Main Projects
+
+- 🔍 **[JSP-Parser](https://github.com/yourgithubid/JSP-Parser)**  
+  Java-based parser project for analyzing JSP files.
+
+- 📱 **[Qorder](https://github.com/yourgithubid/Qorder)**  
+  Mobile QR-based ordering solution for managing reservations and payments.
+
+- ⚡ **[EV Charging Station Platform](https://github.com/yourgithubid/EV-Project)**  
+  Web platform for EV charging station registration, reservation, and payment.
 
 ---
 
 ## 📊 GitHub Stats
 
-| Stats | Most Used Languages |
-|-------|----------------------|
+| Stats | Top Languages |
+|-------|---------------|
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithubid&show_icons=true&theme=default&hide_rank=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubid&layout=compact&theme=default) |
-
-<!-- 커밋 시간 분석 카드 (선택 사항) -->
-![GitHub Activity Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yourgithubid&theme=default)
-
----
-
-## 📌 Pinned Projects
-
-<!-- 고정 레포지토리 예시 -->
-- 🔥 [Project A](https://github.com/yourgithubid/project-a) - Android 기반 일정 관리 앱
-- 📦 [Project B](https://github.com/yourgithubid/project-b) - Firebase를 활용한 채팅 앱
-- 🎨 [Project C](https://github.com/yourgithubid/project-c) - React Native UI 컴포넌트 라이브러리
 
 ---
 
 ## 📫 Contact
 
-- 📍 Seoul, Korea  
-- ✉️ youremail@example.com  
-- 🌐 [yourblog.com](https://yourblog.com)  
-- 🐦 [@yourtwitter](https://twitter.com/yourtwitter)  
-- 💼 [LinkedIn](https://linkedin.com/in/yourid)
+- ✉️ wndid0705@naver.com
 
 ---
 
-<!-- 방문자 수 -->
+<!-- Optional: Visitor Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourgithubid&style=flat-square&color=gray" alt="Visitor Badge"/>
 </p>
