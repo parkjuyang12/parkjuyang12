@@ -1,4 +1,11 @@
-<h2 align="center">Hi there 👋, I'm Juyang Park</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=00E5FF&center=true&vCenter=true&width=1000&lines=Hi+there+👋,+I'm+Juyang+Park" />
+</p>
+
+<h1 align="center">
+  <img src="https://img.shields.io/badge/Graph%20Engineer-1a1a1a?style=for-the-badge&logo=neo4j&logoColor=00E5FF&color=000000" />
+</h1>
+
 <p align="center">
   <a href="mailto:wndid0705@naver.com"><img src="https://img.shields.io/badge/Email-wndid0705@naver.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://www.acmicpc.net/user/qkrdid87"><img src="https://img.shields.io/badge/Baekjoon-OnlineJudge-0078D7?style=flat&logo=baekjoon&logoColor=white"/></a>
