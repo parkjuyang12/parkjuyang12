@@ -60,10 +60,10 @@ I also have hands-on experience building **data governance solutions**.
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=parkjuyang12&show_icons=true&theme=default&hide_rank=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=parkjuyang12&show_icons=true&theme=calm&hide_rank=true&hide_border=true" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkjuyang12&layout=compact&theme=default" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkjuyang12&layout=compact&theme=calm&hide_border=true" />
     </td>
     <td>
       <a href="https://solved.ac/qkrdid87/">
