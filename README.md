@@ -1,4 +1,4 @@
-<h2 align="center">Hi there 👋, I'm Jooyang Park</h2>
+<h2 align="center">Hi there 👋, I'm Juyang Park</h2>
 <p align="center">
   <a href="mailto:wndid0705@naver.com"><img src="https://img.shields.io/badge/Email-wndid0705@naver.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://www.acmicpc.net/user/your_baekjoon_id"><img src="https://img.shields.io/badge/Baekjoon-OnlineJudge-0078D7?style=flat&logo=baekjoon&logoColor=white"/></a>
@@ -6,7 +6,7 @@
 
 ---
 
-👋 I’m **Jooyang Park**, an aspiring **Data Engineer** who loves working with **data and infrastructure**.  
+👋 I’m **Juyang Park**, an aspiring **Data Engineer** who loves working with **data and infrastructure**.  
 I'm particularly interested in **containerization** and **orchestration** technologies like **Docker** and **Kubernetes**.  
 I also have hands-on experience building **data governance solutions**.
 
@@ -29,7 +29,7 @@ I also have hands-on experience building **data governance solutions**.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 
-### DevOps & Cloud
+### DevOps & Cloud & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
@@ -44,13 +44,13 @@ I also have hands-on experience building **data governance solutions**.
 
 ## 📌 Main Projects
 
-- 🔍 **[JSP-Parser](https://github.com/yourgithubid/JSP-Parser)**  
+- 🔍 **[JSP-Parser](https://github.com/parkjuyang12/JSP-Parser)**  
   Java-based parser project for analyzing JSP files.
 
-- 📱 **[Qorder](https://github.com/yourgithubid/Qorder)**  
+- 📱 **[Qorder](https://github.com/parkjuyang12/Qorder)**  
   Mobile QR-based ordering solution for managing reservations and payments.
 
-- ⚡ **[EV Charging Station Platform](https://github.com/yourgithubid/EV-Project)**  
+- ⚡ **[EV Charging Station Platform](https://github.com/parkjuyang12/Char)**  
   Web platform for EV charging station registration, reservation, and payment.
 
 ---
