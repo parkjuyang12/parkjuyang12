@@ -57,10 +57,9 @@ I also have hands-on experience building **data governance solutions**.
 
 ## 📊 GitHub Stats
 
-| Stats | Top Languages |
+| Stats | Top Languages | Baekjoon |
 |-------|---------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=parkjuyang12&show_icons=true&theme=default&hide_rank=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkjuyang12&layout=compact&theme=default) |
-
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=parkjuyang12&show_icons=true&theme=default&hide_rank=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkjuyang12&layout=compact&theme=default) |[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrdid87)](https://solved.ac/qkrdid87/) |
 ---
 
 ## 📫 Contact
